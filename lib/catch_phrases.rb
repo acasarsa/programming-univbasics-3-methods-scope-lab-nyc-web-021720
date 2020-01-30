@@ -5,6 +5,5 @@ def mario
 end
 
 def toadstool
-  puts status
-  status
+  puts $status
 end
